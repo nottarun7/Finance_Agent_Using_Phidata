@@ -1,0 +1,13 @@
+pandas
+cassandra-driver
+phidata
+python-dotenv
+yfinance
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+os-sys
+dotenv
+python-docx
